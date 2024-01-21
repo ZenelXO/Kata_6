@@ -7,4 +7,14 @@ public class MathTest {
     public void should_return_120_given_5_factorial(){
         assertThat(new Math("5", "!").execute()).isEqualTo("120");
     }
+
+    @Test
+    public void should_return_5040_given_7_factorial(){
+        assertThat(new Math("7", "!").execute()).isEqualTo("5040");
+    }
+
+    @Test
+    public void should_return_362880_given_9_factorial(){
+        assertThat(new Math("9", "!").execute()).isEqualTo("362880");
+    }
 }

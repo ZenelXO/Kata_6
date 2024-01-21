@@ -10,6 +10,10 @@ public class Math {
     }
 
     public String execute(){
-        return "120";
+        int result=1;
+        for(int i=1; i<=Integer.parseInt(input1); i++){
+            result *= i;
+        }
+        return Integer.toString(result);
     }
 }

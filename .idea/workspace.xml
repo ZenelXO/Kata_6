@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kata6/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MathTest.java" afterDir="false" />
+    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="First commit, with Main class and Test class done.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kata6/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kata6/Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,11 +71,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705844411063</updated>
-      <workItem from="1705844412200" duration="204000" />
+      <workItem from="1705844412200" duration="367000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit, with Main class and Test class done.">
+      <option name="closed" value="true" />
+      <created>1705844648434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705844648434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, with Main class and Test class done." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, with Main class and Test class done." />
   </component>
 </project>

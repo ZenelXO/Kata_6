@@ -1,11 +1,11 @@
 package kata6;
 
-public class Math {
+public class MathBoard {
     private String input1;
     private String operator;
     private String input2;
 
-    public Math(String input1, String operator, String input2) {
+    public MathBoard(String input1, String operator, String input2) {
         this.input1 = input1;
         this.operator = operator;
         this.input2 = input2;
@@ -30,6 +30,7 @@ public class Math {
     }
 
     public String pow(){
-        return "";
+        double result = Math.pow(Integer.parseInt(input1), Integer.parseInt(input2));
+        return Double.toString(result);
     }
 }

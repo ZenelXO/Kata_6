@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="First commit, with Main class and Test class done.">
+    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="Second commit, with factorial class done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kata6/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kata6/Math.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathTest.java" afterDir="false" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705844411063</updated>
-      <workItem from="1705844412200" duration="367000" />
+      <workItem from="1705844412200" duration="542000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, with Main class and Test class done.">
       <option name="closed" value="true" />
@@ -81,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705844648434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit, with factorial class done.">
+      <option name="closed" value="true" />
+      <created>1705844801365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705844801365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, with Main class and Test class done." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, with Main class and Test class done." />
+    <MESSAGE value="Second commit, with factorial class done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit, with factorial class done." />
   </component>
 </project>

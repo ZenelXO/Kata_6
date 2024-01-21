@@ -22,9 +22,17 @@ public class MathBoard {
     }
 
     public String factorial(){
-        int result=1;
-        for(int i=1; i<=Integer.parseInt(input1); i++){
-            result *= i;
+        int result=0;
+        if(Integer.parseInt(input1) > 0){
+            result=1;
+            for(int i=1; i<=Integer.parseInt(input1); i++){
+                result *= i;
+            }
+        }else{
+            result=-1;
+            for(int i=1; i<=-Integer.parseInt(input1); i++){
+                result *= i;
+            }
         }
         return Integer.toString(result);
     }

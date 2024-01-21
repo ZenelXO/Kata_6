@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="Third commit, with the start of the second operator (pow)">
+    <list default="true" id="e0df41a8-0d01-424a-a9ee-f6b9896f1cf9" name="Changes" comment="Now we have, done the two clases (factorial and pow), but we need to fix the negative in the factorial.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kata6/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kata6/MathBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kata6/MathBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kata6/MathBoard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705844411063</updated>
-      <workItem from="1705844412200" duration="867000" />
+      <workItem from="1705844412200" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, with Main class and Test class done.">
       <option name="closed" value="true" />
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705844992459</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Now we have, done the two clases (factorial and pow), but we need to fix the negative in the factorial.">
+      <option name="closed" value="true" />
+      <created>1705845339158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705845339158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +115,7 @@
     <MESSAGE value="First commit, with Main class and Test class done." />
     <MESSAGE value="Second commit, with factorial class done." />
     <MESSAGE value="Third commit, with the start of the second operator (pow)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit, with the start of the second operator (pow)" />
+    <MESSAGE value="Now we have, done the two clases (factorial and pow), but we need to fix the negative in the factorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="Now we have, done the two clases (factorial and pow), but we need to fix the negative in the factorial." />
   </component>
 </project>
